@@ -41,12 +41,6 @@
 
 
 
-## Enlace a javadoc
-
-https://github.com/robertopracticaspg/Ejerciciomejora/blob/main/ProyectoMejora/doc/index.html
-
-
-
 ## Ejemplo del código
 
 #### Principal
