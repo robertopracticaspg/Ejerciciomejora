@@ -1,19 +1,21 @@
-<h1 align="center">VEHICULOS</h1>
+<h1 align="center">VEHÍCULOS 2.0</h1>
 
 # Indice
 
-## Directora
+
+## com.curso.directora
 #### Principal
 
-## InterfaZ
+## com.curso.interfaz
 #### Conducible 
 
-## Model
+## com.curso.model
 #### Vehiculo
 #### Coche 🚙
 #### Camion 🚚
 #### Moto 🏍️
 #### Barco ⛵
+
 
 
 ## Descripción del Proyecto
@@ -27,4 +29,53 @@
 
 - Usamos varios metodos como conducir, avanzar, parar, etc.
 
+
+
+## Uso
+  
+- Clona el repositorio en tu máquina local.
+
+- Abre el proyecto en tu IDE.
+
+- Asegúrate de tener todas las dependencias necesarias y la configuración de la base de datos correcta.
+
+- Ejecuta la aplicación.
+
+
+
+
 ## Ejemplo del código
+
+#### Principal
+
+![Ejemplo del código](https://github.com/robertopracticaspg/Ejerciciomejora/blob/main/Sin%20t%C3%ADtulo.png)
+
+#### Interfaz Conducible
+
+
+
+
+
+
+
+## Principales tecnologías y herramientas utilizadas en el proyecto
+
+- Java
+- Eclipse
+
+
+
+## Personas desarolladoras del proyecto
+
+Roberto Pesquera García.
+
+https://github.com/robertopracticaspg
+
+  
+  
+  ## Estado del proyecto
+
+<h4 align="center">
+✔️ Finalizado ✔️
+</h4>
+</h4>
