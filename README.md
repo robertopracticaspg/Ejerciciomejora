@@ -37,8 +37,6 @@
 
 - Abre el proyecto en tu IDE.
 
-- Asegúrate de tener todas las dependencias necesarias y la configuración de la base de datos correcta.
-
 - Ejecuta la aplicación.
 
 
